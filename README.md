@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sufyan-555
+- 👋 Hi, I’m @Mohammad Sufyan
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on any project which has a good purpose.
